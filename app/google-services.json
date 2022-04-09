@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668818862070",
+    "firebase_url": "https://booktable-13730-default-rtdb.firebaseio.com",
+    "project_id": "booktable-13730",
+    "storage_bucket": "booktable-13730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668818862070:android:b887d3fcfc16a0864521d7",
+        "android_client_info": {
+          "package_name": "com.abhibarkade.booktable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668818862070-bp2f4l5dpgal6l1pn2gig4ln88rm5j0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSdOTt3PgjUOjKZKqBA4l6TGS1lp84GKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668818862070-bp2f4l5dpgal6l1pn2gig4ln88rm5j0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
